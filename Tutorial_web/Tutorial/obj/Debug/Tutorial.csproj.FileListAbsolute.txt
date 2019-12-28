@@ -242,7 +242,7 @@ C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\System.Web.WebPag
 C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\Newtonsoft.Json.xml
 C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\Antlr3.Runtime.pdb
 C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
-C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\obj\Debug\Tutorial.csproj.CopyComplete
 C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\obj\Debug\Tutorial.dll
 C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\obj\Debug\Tutorial.csproj.CopyComplete
