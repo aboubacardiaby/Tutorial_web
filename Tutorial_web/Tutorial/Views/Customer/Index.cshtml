@@ -7,7 +7,7 @@
 <h2>Index</h2>
 
 
-@using (Html.BeginForm()) 
+@using (Html.BeginForm("Create", "Customer", FormMethod.Post)) 
 {
     @Html.AntiForgeryToken()
     
