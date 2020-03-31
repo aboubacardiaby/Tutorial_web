@@ -331,3 +331,12 @@ C:\Users\DCMNMPLS\source\repos\aboubacardiaby\Tutorial_web\Tutorial_web\Tutorial
 C:\Users\DCMNMPLS\source\repos\aboubacardiaby\Tutorial_web\Tutorial_web\Tutorial\bin\Autofac.Integration.Mvc.xml
 C:\Users\DCMNMPLS\source\repos\aboubacardiaby\Tutorial_web\Tutorial_web\Tutorial\bin\EntityFramework.xml
 C:\Users\DCMNMPLS\source\repos\aboubacardiaby\Tutorial_web\Tutorial_web\Tutorial\bin\EntityFramework.SqlServer.xml
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\Autofac.dll
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\Autofac.Integration.Mvc.dll
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\EntityFramework.dll
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\EntityFramework.SqlServer.dll
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\Autofac.pdb
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\Autofac.xml
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\Autofac.Integration.Mvc.xml
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\EntityFramework.xml
+C:\Users\MNdev\source\repos\Tutorial\Tutorial_web\Tutorial\bin\EntityFramework.SqlServer.xml
