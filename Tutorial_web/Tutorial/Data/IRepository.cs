@@ -8,5 +8,7 @@ namespace Tutorial.Data
     public interface IRepository
     {
         void AddNewCustomer(Customer customer);
+
+        List<Customer> GetAll();
     }
 }

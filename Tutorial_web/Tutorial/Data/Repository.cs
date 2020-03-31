@@ -13,5 +13,10 @@ namespace Tutorial.Data
             _entities.Customers.Add(customer);
             _entities.SaveChanges();
         }
+
+        public List<Customer> GetAll()
+        {
+            return _entities.Customers.ToList();
+        }
     }
 }

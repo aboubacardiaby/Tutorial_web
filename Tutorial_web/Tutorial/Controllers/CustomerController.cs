@@ -22,6 +22,23 @@ namespace Tutorial.Controllers
            
             return View();
         }
+        public ActionResult List()
+        {
+            var list = new List<Models.Customer>();
+           var result = _repository.GetAll();
+            foreach (var item in result)
+            {
+                list.Add(new Models.Customer()
+                {
+                    Address = item.Address,
+                    CustomerId = item.Id.ToString(),
+                    Email = item.Email,
+                    Name = item.Name,
+                    Phone = item.Phone
+                });
+            }
+            return View(list);
+        }
         [HttpPost]
         public ActionResult Create( Models.Customer cust)
         {
